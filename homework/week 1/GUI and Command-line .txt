@@ -1,0 +1,2 @@
+﻿please write a short paper on your thoughts comparing and contrasting them both.
+After messing around with both systems for a bit, I can tell you with confidence that I am far more comfortable with the GUI then I am with CL. I have used the gui for much longer than the one I played around the command line one. I also feel safer seeing the multiple folders and being able to play around with how files are sorted in the visual way. The command line just gave me way to much anxiety looking at and I could not really see what was happening and that didn’t feel good.
