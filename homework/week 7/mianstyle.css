@@ -1,0 +1,24 @@
+div{
+    font-size:30PX;
+    color:rgb(255, 0, 140)
+
+}
+
+span{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(170, 121, 185);
+    font-size: medium;
+    
+}
+
+.myclass{
+    font-size:25px;
+    color: rebeccapurple;
+    font-weight: 300;
+}
+
+body{
+    background-image: url(Pattern-Cover.png);
+    background-repeat: no-repeat;
+    background-color: rgb(90, 139, 182);
+}
