@@ -1,6 +1,6 @@
 function setup()
 {
-    createCanvas(500,500);
+    createCanvas(400,400);
 }
 function draw()
 {
@@ -14,4 +14,7 @@ function draw()
     circle(300,250,20);
     circle(300,250,50);
     triangle(240,65,250,75,260,65);
+    point(190,300);
+    line(230,100,230,200);
+    text('its me',250,50);
 }
