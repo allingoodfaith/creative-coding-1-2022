@@ -1,3 +1,7 @@
+var x = 50;
+var y = 75;
+var diamete = 30;
+
 function setup()
 {    
     createCanvas(450,450);
