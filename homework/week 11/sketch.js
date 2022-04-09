@@ -26,6 +26,7 @@ function draw()
     circle(140,180,80);
     circle(260,180,80);
     line(180,180,220,180)
+    x++; 
 
     //eyes
     circle(140,180,50);
@@ -60,5 +61,17 @@ function draw()
     //mouth 
     line(240,290,200,300);
     line(160,290,200,300);
+    x+;
+    y+;
+
+    
     text('its me',190,440);
+    if(x >= 800 || x <= 0)
+    {
+       movement *= -1;
+    }
+
+     x += movement;
+
+
 }
